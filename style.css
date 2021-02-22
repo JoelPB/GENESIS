@@ -13,8 +13,9 @@ body {
 
 .genius {
     display: grid;
-    grid-template-areas: 'verde vermelho' 'amarelo azul';
-    grid-gap: 10px;
+    grid-template-areas: 'verde vermelho' 
+    'amarelo azul';
+    grid-gap: 10px;    
     border: 1px solid white;
     background-color: white;
     border-radius: 100%;
